@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VS\\Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BD59F6-6DD5-4C4F-8091-F6DCE6B794FB}|Hontaruk_Olha_1\\Hontaruk_Olha_1.vcxproj|C:\\VS\\Practice\\Hontaruk_Olha_1\\Hontaruk_Olha_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D8BD59F6-6DD5-4C4F-8091-F6DCE6B794FB}|Hontaruk_Olha_1\\Hontaruk_Olha_1.vcxproj|solutionrelative:Hontaruk_Olha_1\\Hontaruk_Olha_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF6B1661-54BE-43A2-B6F9-AA00BFDCACA8}|Practice\\Practice.vcxproj|C:\\VS\\Practice\\Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AF6B1661-54BE-43A2-B6F9-AA00BFDCACA8}|Practice\\Practice.vcxproj|solutionrelative:Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hontaruk_Olha_1.cpp",
+              "DocumentMoniker": "C:\\VS\\Practice\\Hontaruk_Olha_1\\Hontaruk_Olha_1.cpp",
+              "RelativeDocumentMoniker": "Hontaruk_Olha_1\\Hontaruk_Olha_1.cpp",
+              "ToolTip": "C:\\VS\\Practice\\Hontaruk_Olha_1\\Hontaruk_Olha_1.cpp",
+              "RelativeToolTip": "Hontaruk_Olha_1\\Hontaruk_Olha_1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-25T12:21:49.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Practice.cpp",
+              "DocumentMoniker": "C:\\VS\\Practice\\Practice\\Practice.cpp",
+              "RelativeDocumentMoniker": "Practice\\Practice.cpp",
+              "ToolTip": "C:\\VS\\Practice\\Practice\\Practice.cpp",
+              "RelativeToolTip": "Practice\\Practice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-25T12:11:19.877Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
