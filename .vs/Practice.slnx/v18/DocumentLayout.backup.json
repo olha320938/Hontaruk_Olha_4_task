@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\VS\\Practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8BD59F6-6DD5-4C4F-8091-F6DCE6B794FB}|Hontaruk_Olha_1\\Hontaruk_Olha_1.vcxproj|C:\\VS\\Practice\\Hontaruk_Olha_1\\topic_1_task_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D8BD59F6-6DD5-4C4F-8091-F6DCE6B794FB}|Hontaruk_Olha_1\\Hontaruk_Olha_1.vcxproj|solutionrelative:Hontaruk_Olha_1\\topic_1_task_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{017E7C55-4FF3-4B6A-ADA1-B28109469041}|topic_2_task_4\\topic_2_task_4.vcxproj|C:\\VS\\Practice\\topic_2_task_4\\topic_2_task_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{017E7C55-4FF3-4B6A-ADA1-B28109469041}|topic_2_task_4\\topic_2_task_4.vcxproj|solutionrelative:topic_2_task_4\\topic_2_task_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\VS\\Practice\\Hontaruk_Olha_1\\topic_1_task_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hontaruk_Olha_1\\topic_1_task_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AF6B1661-54BE-43A2-B6F9-AA00BFDCACA8}|Practice\\Practice.vcxproj|C:\\VS\\Practice\\Practice\\Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -23,19 +27,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "topic_1_task_4.cpp",
-              "DocumentMoniker": "C:\\VS\\Practice\\Hontaruk_Olha_1\\topic_1_task_4.cpp",
-              "RelativeDocumentMoniker": "Hontaruk_Olha_1\\topic_1_task_4.cpp",
-              "ToolTip": "C:\\VS\\Practice\\Hontaruk_Olha_1\\topic_1_task_4.cpp",
-              "RelativeToolTip": "Hontaruk_Olha_1\\topic_1_task_4.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Title": "topic_2_task_4.cpp",
+              "DocumentMoniker": "C:\\VS\\Practice\\topic_2_task_4\\topic_2_task_4.cpp",
+              "RelativeDocumentMoniker": "topic_2_task_4\\topic_2_task_4.cpp",
+              "ToolTip": "C:\\VS\\Practice\\topic_2_task_4\\topic_2_task_4.cpp",
+              "RelativeToolTip": "topic_2_task_4\\topic_2_task_4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-25T12:21:49.513Z",
+              "WhenOpened": "2026-02-26T18:30:04.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "topic_1_task_4.cpp",
+              "DocumentMoniker": "C:\\VS\\Practice\\Hontaruk_Olha_1\\topic_1_task_4.cpp",
+              "RelativeDocumentMoniker": "Hontaruk_Olha_1\\topic_1_task_4.cpp",
+              "ToolTip": "C:\\VS\\Practice\\Hontaruk_Olha_1\\topic_1_task_4.cpp",
+              "RelativeToolTip": "Hontaruk_Olha_1\\topic_1_task_4.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-25T12:21:49.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Practice.cpp",
               "DocumentMoniker": "C:\\VS\\Practice\\Practice\\Practice.cpp",
               "RelativeDocumentMoniker": "Practice\\Practice.cpp",
