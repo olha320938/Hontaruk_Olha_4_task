@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\VS\\Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{04369DFF-DA19-45A6-8DE2-B55BD067C79B}|topic_3_task_4\\topic_3_task_4.vcxproj|C:\\VS\\Practice\\topic_3_task_4\\topic_3_task_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{04369DFF-DA19-45A6-8DE2-B55BD067C79B}|topic_3_task_4\\topic_3_task_4.vcxproj|solutionrelative:topic_3_task_4\\topic_3_task_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{017E7C55-4FF3-4B6A-ADA1-B28109469041}|topic_2_task_4\\topic_2_task_4.vcxproj|C:\\VS\\Practice\\topic_2_task_4\\topic_2_task_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{017E7C55-4FF3-4B6A-ADA1-B28109469041}|topic_2_task_4\\topic_2_task_4.vcxproj|solutionrelative:topic_2_task_4\\topic_2_task_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "topic_3_task_4.cpp",
+              "DocumentMoniker": "C:\\VS\\Practice\\topic_3_task_4\\topic_3_task_4.cpp",
+              "RelativeDocumentMoniker": "topic_3_task_4\\topic_3_task_4.cpp",
+              "ToolTip": "C:\\VS\\Practice\\topic_3_task_4\\topic_3_task_4.cpp*",
+              "RelativeToolTip": "topic_3_task_4\\topic_3_task_4.cpp*",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-26T22:24:24.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "topic_2_task_4.cpp",
               "DocumentMoniker": "C:\\VS\\Practice\\topic_2_task_4\\topic_2_task_4.cpp",
               "RelativeDocumentMoniker": "topic_2_task_4\\topic_2_task_4.cpp",
               "ToolTip": "C:\\VS\\Practice\\topic_2_task_4\\topic_2_task_4.cpp",
               "RelativeToolTip": "topic_2_task_4\\topic_2_task_4.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-26T18:30:04.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "topic_1_task_4.cpp",
               "DocumentMoniker": "C:\\VS\\Practice\\Hontaruk_Olha_1\\topic_1_task_4.cpp",
               "RelativeDocumentMoniker": "Hontaruk_Olha_1\\topic_1_task_4.cpp",
@@ -50,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Practice.cpp",
               "DocumentMoniker": "C:\\VS\\Practice\\Practice\\Practice.cpp",
               "RelativeDocumentMoniker": "Practice\\Practice.cpp",
